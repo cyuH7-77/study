@@ -1,0 +1,12 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.REPL.enableREPLSmartSend": false,
+    "editor.inlineSuggest.enabled": false,
+    "github.copilot.enable": {
+        "*": false
+    },
+    "[c]": {
+        "editor.suggest.showVariables": false,
+        "editor.wordBasedSuggestions": "off"
+    }
+}
